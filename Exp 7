@@ -3,7 +3,7 @@ public class PhoneNumberFormat
 {
 public static void main(String[] args)
 {
-System.out.print("\nThe Team members is Sab,Eas,Dsk,Hrn\n\n\n\n\n\n\n\n\n\n\n");
+//System.out.print("\nThe Team members is Sab,Eas,Dsk,Hrn\n\n\n\n\n\n\n\n\n\n\n");
 Scanner keyboard=new Scanner(System.in);
 String phoneNumber="";
 String formattedPhoneNumber="";
